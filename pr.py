@@ -1,1 +1,0 @@
-n= input("enter the no")
